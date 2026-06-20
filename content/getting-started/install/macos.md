@@ -14,6 +14,7 @@ You must have Go v1.23 or above already installed on your machine in order to in
 You can use Homebrew to install TinyGo using the following commands:
 
 ```shell
+brew trust --formula tinygo-org/tools/tinygo
 brew tap tinygo-org/tools
 brew install tinygo
 ```
